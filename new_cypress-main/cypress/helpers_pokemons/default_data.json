@@ -1,0 +1,9 @@
+{
+	"login":"USER_LOGIN",
+	"password":"USER_PASSWORD",
+    "card_nubmer": "4111111111111111",
+    "card_date": "12/34",
+    "card_cvv": "125",
+    "cardholder": "test",
+    "approval_code": "56456"
+}
